@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opencv/Projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opencv/Projects/Body Detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opencv/Projects/Eye Detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Opencv/Projects/Face Detection" vcs="Git" />
+  </component>
+</project>
